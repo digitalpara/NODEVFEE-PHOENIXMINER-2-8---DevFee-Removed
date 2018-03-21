@@ -5,6 +5,7 @@ just start nodevfee and then mining software phoenixminer.
 Once devfee mining is triggered it will mine to your address. To make sure everything is working properly.
 
 Download Phoenixminer 2.8a and nodevfee 2.6 Ethereum Miner No DevFee Below
+
 Direct download link: https://mirrorace.com/m/csgX
 
 
