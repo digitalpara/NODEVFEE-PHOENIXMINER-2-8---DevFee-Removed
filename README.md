@@ -5,7 +5,7 @@ just start nodevfee and then mining software phoenixminer.
 Once devfee mining is triggered it will mine to your address. To make sure everything is working properly.
 
 Download Phoenixminer 2.8a and nodevfee 2.6 Ethereum Miner No DevFee Below
-Direct download link:  https://mirrorace.com/m/csgX
+Direct download link: https://mirrorace.com/m/csgX
 
 
 FAQ
@@ -16,6 +16,7 @@ Check mining logs for any "devfee" text or "eth_submitLogin" text. If it shows u
 Run it for at least 24 hours so that pool statistics even out from downtime where You swapped to phoenixminer 2.8 No Fee
 
 Tips ETH : 0x7F5BB53c415334235a9E42eA03695F11b6553C0D
+
 phoenixminer 2.8
 
 phoenixminer 2.8 Miner
