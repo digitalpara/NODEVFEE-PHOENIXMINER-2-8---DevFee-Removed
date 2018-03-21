@@ -1,0 +1,16 @@
+#-pool eu1.ethermine.org:4444 -pool2 us1.ethermine.org:14444
+#-wal 0x7F5BB53c415334235a9E42eA03695F11b6553C0D
+#-worker rig4
+#-pass x
+#-nvidia
+#-proto 3
+#-ftimeout 120
+#-cdm 0
+#-mi 12
+#-log 0
+#-minRigSpeed 15.000
+#-rmode 2
+#-eres 0
+#-coin eth
+#-coin2 eth
+
